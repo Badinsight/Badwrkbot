@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Je suis là pour t'aider",     // this is what people actually see
-        type: 4,               // Custom
+        state: "Je suis là pour t'aider !",     // this is what people actually see
+        type: 4, Vialoco.fr               // Custom
       },
     ],
   },
